@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://toalhatech.github.io/toalhatech/atom.xml" rel="self"/>
-  <link href="http://toalhatech.github.io/toalhatech/"/>
-  <updated>2013-05-13T09:42:31-03:00</updated>
-  <id>http://toalhatech.github.io/toalhatech/</id>
+  <title><![CDATA[ToalhaTech]]></title>
+  <link href="http://toalhatech.github.io/toalhatech.com/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech.com/"/>
+  <updated>2013-05-13T09:44:41-03:00</updated>
+  <id>http://toalhatech.github.io/toalhatech.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://toalhatech.github.io/toalhatech/sitemap.xml 
+Sitemap: http://toalhatech.github.io/toalhatech.com/sitemap.xml 
