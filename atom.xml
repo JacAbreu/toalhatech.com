@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[ToalhaTech]]></title>
-  <link href="http://toalhatech.github.io/toalhatech.com/atom.xml" rel="self"/>
-  <link href="http://toalhatech.github.io/toalhatech.com/"/>
-  <updated>2013-05-13T12:34:10-03:00</updated>
-  <id>http://toalhatech.github.io/toalhatech.com/</id>
+  <link href="http://toalhatech.com/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-05-13T12:35:56-03:00</updated>
+  <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     
