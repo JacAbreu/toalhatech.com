@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ToalhaTech]]></title>
-  <link href="http://toalhatech.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Sobre o ToalhaTech | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/sobre-o-toalhatech/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
   <updated>2013-05-13T12:40:19-03:00</updated>
   <id>http://toalhatech.com/</id>
