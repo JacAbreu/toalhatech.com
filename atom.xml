@@ -4,7 +4,7 @@
   <title><![CDATA[ToalhaTech]]></title>
   <link href="http://toalhatech.com/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
-  <updated>2013-05-14T07:47:42-03:00</updated>
+  <updated>2013-05-14T19:27:33-03:00</updated>
   <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>Olá pessoal. Tudo bem com vocês?</p>
 
 <p>A comunidade de .NET do Rio de Janeiro tem um encontro mensal, o DNA Rio &ndash; <a href="https://twitter.com/search?q=%23DNARio&amp;src=hash">#DNARio</a>. Neste encontro, sem formato definido além da rodada de apresentações entre os presentes, é falado sobre várias tecnologias, não se prendendo às da platafoma .NET. Isso faz com que o leque de temas seja bastante aberto e um encontro bastante legal para quem programa nas linguagens da Microsoft ou não. Pelo tempo que frequento as reuniões do #DNARio, acredito que o principal objetivo do encontro seja possibilitar pessoas se encontrarem para falar sobre tecnologia &ndash; pessoas falarem é o mais importante.</p>
+
+<!-- more -->
+
 
 <p>O encontro do DNA Rio de abril foi realizado no dia 6, na <a href="http://www.caelum.com.br/">Caelum/RJ</a> &ndash; eles tem as melhores recepcionistas do mundo. Obrigada Caelum por nos receber tão bem. Durante a apresentação deste encontro, os participantes falaram além do nome, o que está trabalhando e o que está estudando atualmente.</p>
 
@@ -53,7 +56,10 @@
 
 <p>Sabendo do quanto é relevante e benéfico este tipo de convivência, nós nos esforçamos para ir ao máximo possível de eventos e nos conhecemos por intermédio de um evento, por sinal. Em conversas posteriores, a Anna Cruz incentivou que a Samanta Cicília e eu escrevessemos sobre o que vemos nos eventos que fomos, mas a própria Anna também vai a muitos eventos então concordamos que a Anna seria ótima para o grupo.</p>
 
-<p>Com isso, a <a href="https://twitter.com/yuizinha">Anna Cruz</a> , a <a href="https://twitter.com/samantacicilia">Samanta Cicília</a> e eu <a href="https://twitter.com/JacAbreu">(Jac Abreu Lopes)</a>, criamos o ToalhaTech &ndash; um blog para falarmos sobre o que vimos de interessante nos eventos, para anunciar eventos e para falar de outros temas que consideramos interessantes relacionados a tecnologia.</p>
+<!-- more -->
+
+
+<p>Com isso, a <a href="https://twitter.com/yuizinha">Anna Cruz</a> , a <a href="https://twitter.com/samantacicilia">Samy Souza</a> e eu <a href="https://twitter.com/JacAbreu">(Jac Abreu Lopes)</a>, criamos o ToalhaTech &ndash; um blog para falarmos sobre o que vimos de interessante nos eventos, para anunciar eventos e para falar de outros temas que consideramos interessantes relacionados a tecnologia.</p>
 
 <p>O nome “ToalhaTech” surgiu porque todas nós gostamos do Mochileiro das Galáxias e tão importante quanto sempre ter a sua toalha é ler o ToalhaTech :).</p>
 
