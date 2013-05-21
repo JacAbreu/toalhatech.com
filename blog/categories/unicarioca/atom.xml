@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: de | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/de/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Unicarioca, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/unicarioca/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
   <updated>2013-05-21T19:45:39-03:00</updated>
   <id>http://toalhatech.com/</id>
@@ -43,49 +43,6 @@ Local: Auditório Arcy Magno</p>
 
 <p>O evento será na unidade do Rio Comprido e começará às 18:30<br/>
 Endereço: <a href="http://maps.google.com.br/maps?q=Av.+Paulo+de+Frontin,+568&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x997fb23f317bef:0x6146793c05971778,Av.+Paulo+de+Frontin,+568+-+Rio+Comprido,+Rio+de+Janeiro+-+RJ,+20261-243&amp;gl=br&amp;sa=X&amp;ei=bfabUfXjMofu9ASNnIHYCg&amp;ved=0CCsQ8gEwAA">Av. Paulo de Frontin, 568</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[10° Encontro Programadores C/C++]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/17/10-degrees-encontro-programadores-c-c-plus-plus/"/>
-    <updated>2013-05-17T08:38:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/17/10-degrees-encontro-programadores-c-c-plus-plus</id>
-    <content type="html"><![CDATA[<p>O Grupo de Usuários de C e C++ do Brasil tem o prazer de convidar a comunidade a participar do 10° Encontro de Programadores de C &amp; C++ que será realizado no Rio de Janeiro em <strong>25 de Maio de 2013</strong>.
-O Evento ocorrerá no auditório <em>RAV62 do Instituto de Matemática e Estatística da UERJ</em> <a href="http://www.uerj.br/como_chegar.php">(mapa)</a>, localizado no sexto andar do edifício principal (João Lira Filho), bloco F.</p>
-
-<!-- more -->
-
-
-<p>Os Encontros de Programadores de C &amp; C++ tem o formato de workshop ou reunião técnica, e pretendem reunir profissionais, acadêmicos e hobbyistas para troca de experiências e ideias.</p>
-
-<p>Mais informações:<a href="http://www.ccppbrasil.org/wiki/Grupo:Encontro_X">http://www.ccppbrasil.org/wiki/Grupo:Encontro_X</a></p>
-
-<p>O evento é gratuito.</p>
-
-<p>Esperamos vocês.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[O hackday - arduino voltou o/]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/16/o-hackday-de-arduino-voltou/"/>
-    <updated>2013-05-16T18:32:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/16/o-hackday-de-arduino-voltou</id>
-    <content type="html"><![CDATA[<p>Pessoal, texto da Desireé Santos, publicado pela Vivi Sousa :)</p>
-
-<p>Boas notícias !!!
-Vamos retomar as atividades com hackday de arduino \o/ e o encontro será no hackerspace Kernel 40. Reserve a data e passe a tarde arduinando conosco<br/>
-<strong>Dia: 01/06/2013</strong><br/>
-Horário: 13h às 17h<br/>
-Local: <a href="http://maps.google.com.br/maps?q=Rua+Maria+Am%C3%A1lia,+603&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x997e0f19115f61:0x8160556022c300a0,R.+Maria+Am%C3%A1lia,+603+-+Andara%C3%AD,+Rio+de+Janeiro+-+RJ,+20510-130&amp;gl=br&amp;sa=X&amp;ei=vlCVUY6LMYim9ASG6oCICQ&amp;ved=0CCsQ8gEwAA">Rua Maria Amália, 603 &ndash; Subsolo, Andaraí &ndash; Interfone: 20</a></p>
-
-<!-- more -->
-
-
-<p>Kernel 40<br/>
-Conto com a presença de vcs !!<br/>
-<a href="http://www.mentebinaria.com.br/k40/">http://www.mentebinaria.com.br/k40/</a></p>
 ]]></content>
   </entry>
   
