@@ -4,7 +4,7 @@
   <title><![CDATA[Category: de | ToalhaTech]]></title>
   <link href="http://toalhatech.com/blog/categories/de/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
-  <updated>2013-05-30T01:00:10-03:00</updated>
+  <updated>2013-05-30T11:12:51-03:00</updated>
   <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Encontros de algumas comunidades do Rio de Janeiro]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/"/>
+    <updated>2013-05-30T10:40:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro</id>
+    <content type="html"><![CDATA[<p>No Rio de Janeiro, algumas comunidades estão bastante organizadas e engajadas em manter a regularidade dos encontros de seus participantes. Nos encontros que podem ser para palestras, apresentação de cases, bate papo sobre a área ou um misto dos dois, geralmente com uma certa agenda, descrita abaixo:</p>
+
+<!-- more -->
+
+
+<h4>Encontros Mensais:</h4>
+
+<ul>
+<li>1º sábado &ndash; Encontro da comunidade .NET &ndash; <a href="https://twitter.com/dnario">DNA Rio</a></li>
+<li>3º sábado &ndash; Encontro da comunidade ruby &ndash; <a href="https://twitter.com/rubyonrio">RubyOnRio</a></li>
+</ul>
+
+
+<h4>Encontros Bimestrais:</h4>
+
+<ul>
+<li>Encontro da comunidade agile &ndash; <a href="http://rioagile.com.br/rio-agile-talks.html">Rio Agile Talks</a></li>
+<li>Encontro da comunidade javascript &ndash; <a href="https://www.facebook.com/groups/riojs">RioJS</a> &ndash; grupo do facebook</li>
+</ul>
+
+
+<h4>Encontros semanais:</h4>
+
+<ul>
+<li>Encontro da comunidade python &ndash; Almoço do PythOnRio &ndash; no <a href="http://br.groups.yahoo.com/group/pythonrio/">Centro</a> e na <a href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/">Barra da Tijuca</a></li>
+</ul>
+
+
+<p>Se você programa ou tem curiosidade sobre alguma dessas tecnologias, se programe e participe dos encontros. Certamente estar junto dessas pessoas é uma ótima oportunidade de aprender, ensinar e conhecer pessoas sensacionais.</p>
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Almoço pythonrio@Barra]]></title>
