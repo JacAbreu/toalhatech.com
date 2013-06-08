@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Evento, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/evento/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-06-08T19:22:15-03:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SQL Saturday RIO - 2a edicao]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/"/>
+    <updated>2013-06-08T19:12:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao</id>
+    <content type="html"><![CDATA[<p>Recadinho da <a href="https://twitter.com/valparajara">Val Parajara</a>:</p>
+
+<p>&ldquo;A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.</p>
+
+<p>Inscreva-se já e garanta a sua vaga na edição RIO do maior evento <strong>gratuito sobre SQL Server</strong>, garanta já sua vaga.</p>
+
+<p>Ainda estamos trabalhando na montagem <!-- more -->da agenda do evento, mas você já pode conferir as palestras que foram oferecidas para o evento em <a href="http://www.sqlsaturday.com/245/schedule.aspx">http://www.sqlsaturday.com/245/schedule.aspx</a>.</p>
+
+<p>Inscreva-se em : <a href="http://www.sqlsaturday.com/245/register.aspx">http://www.sqlsaturday.com/245/register.aspx</a>"</p>
+]]></content>
+  </entry>
+  
+</feed>

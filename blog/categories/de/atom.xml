@@ -4,7 +4,7 @@
   <title><![CDATA[Category: de | ToalhaTech]]></title>
   <link href="http://toalhatech.com/blog/categories/de/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
-  <updated>2013-06-05T18:41:15-03:00</updated>
+  <updated>2013-06-08T19:22:15-03:00</updated>
   <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SQL Saturday RIO - 2a edicao]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/"/>
+    <updated>2013-06-08T19:12:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao</id>
+    <content type="html"><![CDATA[<p>Recadinho da <a href="https://twitter.com/valparajara">Val Parajara</a>:</p>
+
+<p>&ldquo;A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.</p>
+
+<p>Inscreva-se já e garanta a sua vaga na edição RIO do maior evento <strong>gratuito sobre SQL Server</strong>, garanta já sua vaga.</p>
+
+<p>Ainda estamos trabalhando na montagem <!-- more -->da agenda do evento, mas você já pode conferir as palestras que foram oferecidas para o evento em <a href="http://www.sqlsaturday.com/245/schedule.aspx">http://www.sqlsaturday.com/245/schedule.aspx</a>.</p>
+
+<p>Inscreva-se em : <a href="http://www.sqlsaturday.com/245/register.aspx">http://www.sqlsaturday.com/245/register.aspx</a>"</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Como foi o Rio Agile Talks de Maio/2013]]></title>
@@ -139,27 +156,6 @@ Local: Auditório Arcy Magno</p>
 
 <p>O evento será na unidade do Rio Comprido e começará às 18:30<br/>
 Endereço: <a href="http://maps.google.com.br/maps?q=Av.+Paulo+de+Frontin,+568&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x997fb23f317bef:0x6146793c05971778,Av.+Paulo+de+Frontin,+568+-+Rio+Comprido,+Rio+de+Janeiro+-+RJ,+20261-243&amp;gl=br&amp;sa=X&amp;ei=bfabUfXjMofu9ASNnIHYCg&amp;ved=0CCsQ8gEwAA">Av. Paulo de Frontin, 568</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[10° Encontro de Programadores C/C++]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/17/10-degrees-encontro-programadores-c-c-plus-plus/"/>
-    <updated>2013-05-17T08:38:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/17/10-degrees-encontro-programadores-c-c-plus-plus</id>
-    <content type="html"><![CDATA[<p>O Grupo de Usuários de C e C++ do Brasil tem o prazer de convidar a comunidade a participar do 10° Encontro de Programadores de C &amp; C++ que será realizado no Rio de Janeiro em <strong>25 de Maio de 2013</strong>.
-O Evento ocorrerá no auditório <em>RAV62 do Instituto de Matemática e Estatística da UERJ</em> <a href="http://www.uerj.br/como_chegar.php">(mapa)</a>, localizado no sexto andar do edifício principal (João Lira Filho), bloco F.</p>
-
-<!-- more -->
-
-
-<p>Os Encontros de Programadores de C &amp; C++ tem o formato de workshop ou reunião técnica, e pretendem reunir profissionais, acadêmicos e hobbyistas para troca de experiências e ideias.</p>
-
-<p>Mais informações:<a href="http://www.ccppbrasil.org/wiki/Grupo:Encontro_X">http://www.ccppbrasil.org/wiki/Grupo:Encontro_X</a></p>
-
-<p>O evento é gratuito.</p>
-
-<p>Esperamos vocês.</p>
 ]]></content>
   </entry>
   
