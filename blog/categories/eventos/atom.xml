@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: eventos, | ToalhaTech]]></title>
+  <title><![CDATA[Category: Eventos, | ToalhaTech]]></title>
   <link href="http://toalhatech.com/blog/categories/eventos/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
-  <updated>2013-06-08T19:42:33-03:00</updated>
+  <updated>2013-06-08T21:02:06-03:00</updated>
   <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -14,257 +14,29 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Alguns eventos importantes de 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013/"/>
-    <updated>2013-06-01T11:48:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013</id>
-    <content type="html"><![CDATA[<p>Eventos são momentos importantes de várias comunidades para reunir seus membros e trocar experiências. Um evento é maior que um encontro, seja pela infraestrutura do local, seja pela organização, conteúdo e expectativa dos participantes. Neste ano de 2013, já ocorreram alguns eventos de grande expressão, como o TDC Floripa, Python <!-- more -->Nordeste e o DevinSampa por exemplo,  mas vários outros ainda acontecerão e com inscrições abertas ou para abrir.<br/>
-Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimento. Infelizmente, nem todos os eventos foram listados, mas se você sabe de algum que não está citado abaixo, por favor, nos avise para que atualizarmos o post e divulgar o máximo possível as comunidades/eventos :).</p>
+    <title type="html"><![CDATA[BHack Conference 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/"/>
+    <updated>2013-06-08T19:52:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/bhack-conference-2013</id>
+    <content type="html"><![CDATA[<p>A dica deste evento foi da <a href="https://twitter.com/vivocah">Vivi Sousa</a>. Ela mandou um email perguntando se o ToalhaTech só falaria sobre eventos no RJ. A resposta para esta pergunta é: Nós publicamos e queremos publicar eventos do Brasil inteiro :).</p>
 
-<h3>Junho</h3>
+<p>Segundo a descrição encontrada no site, o BHack Conference 2013 é:</p>
 
-<h5>Evento: <a href="http://soujava.org.br/justjava-2013/">JustJava</a></h5>
+<p><em>&ldquo;Evento voltado à Segurança da Informação</em><!-- more --><em> (SI). Trazendo a cena mineira a possibilidade de espaço para disseminação de informação atualizada e de qualidade sobre temas essenciais, contando com um seleto grupo de palestrantes renomados e com profundo conhecimento em sua área de atuação. Além disso o evento será anfitrião do primeiro capítulo da Owasp Uai Day e da segunda edição do Slackware Show na capital mineira, evento este que ocorre nacionalmente desde 2005.
+BHack, como o nome já tenta mencionar, ACK é um sinal que um dispositivo de rede envia a outro para confirmar que recebeu corretamente a mensagem, o propósito do evento é transmitir informação de qualidade, gerar conhecimento e integrar dois públicos que, apesar de distintos, devem ser parceiros no dia a dia: técnicos e gestores de SI.
+No intuito de promover a referida integração, neste ano serão dois dias de evento, com palestras intercaladas entre gerenciais e técnicas na Track 1 e Track 2, além de atividades extras sendo realizadas durante todo o evento.&rdquo;</em></p>
 
-<ul>
-<li>Data do Evento: 7 e 8 de junho</li>
-<li>Tecnologia/Tema: Java</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: R$ 295,00 a 350,00</li>
-<li>Período de Inscrição: <a href="http://www.sucesusp.org.br/mailing2013/Conteudos/20130607/">até o dia do evento</a></li>
-</ul>
+<p>Essas informações são vistas logo no início do site <a href="http://www.bhack.com.br/#SLACKSHOW">http://www.bhack.com.br/#SLACKSHOW</a>.</p>
 
+<p>Será um &ldquo;evento de 3 eventos&rdquo;, o BHack, o OWASP Uai Day e o SlackShow. O Uai Day voltado para segurança de aplicações e o SlackShow é o evento anual sobre o linux skackware.</p>
 
-<h5>Evento: <a href="http://sampajs.com.br/">Sampa.js</a></h5>
+<p>Para quem gostou, as inscrições ainda estão abertas. Existem 2 formas de se inscrever:
+*   Master, que dá direito aos 3 eventos (BHack + Owasp UaiDay + SlackShow), por R$ 108,00
+*   Comum, que dá direito somente aos eventos (Owasp UaiDay + SlackShow), por R$ 64,80.</p>
 
-<ul>
-<li>Data do Evento: 8 de junho</li>
-<li>Tecnologia/Tema: Java Script</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: R$ 50,00</li>
-<li>Período de Inscrição: <a href="http://bonoevento.com/sampajsv31">até o dia do evento</a></li>
-</ul>
+<p>Com vários palestrantes e muito conteúdo, ainda dá tempo de se inscrever e participar :).</p>
 
-
-<h5>Evento: <a href="http://www.frontinrio.com.br/">FrontInRio</a></h5>
-
-<ul>
-<li>Data do Evento: 15 de junho</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: Rio de Janeiro</li>
-<li>Valor Inscrição: R$ 50,00</li>
-<li>Período de Inscrição: <a href="http://www.frontinrio.com.br/#tickets">até 14/06/2013</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://2013.jsconfbr.org/">JSConfBr</a></h5>
-
-<ul>
-<li>Data do Evento: 22 de junho</li>
-<li>Tecnologia/Tema: Java Script</li>
-<li>Estado de realização do Evento: Ceará</li>
-<li>Valor Inscrição: R$ 300,00 preço único divulgado na página de inscrições até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="http://2013.jsconfbr.org/#register">11/04/2013 &ndash; prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://www.agilebrazil.com/2013/pt/">Agile Brazil 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 26 até 28 de junho</li>
-<li>Tecnologia/Tema: Agile</li>
-<li>Estado de realização do Evento: Brasília</li>
-<li>Valor Inscrição: R$ 250,00 a R$ 599,00 antecipado. Clausula <em>Por empenho</em> descrita na página de inscrição &ndash; para ela, a inscrição custava R$ 799,00</li>
-<li>Período de Inscrição: <a href="http://www.agilebrazil.com/2013/pt/inscricao/">11/04/2013 &ndash; 17/06/2013 antecipado. Clausula <em>Por empenho</em> descrita na página de inscrição &ndash; para ela a inscrição é até o dia do evento</a></li>
-</ul>
-
-
-<h3>Julho</h3>
-
-<h5>Evento: <a href="http://softwarelivre.org/fisl14">FISL14 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 3 até 6 julho</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: Rio Grande do Sul</li>
-<li>Valor Inscrição: R$ 50,00 a R$ 280,00</li>
-<li>Período de Inscrição: <a href="http://fisl.org.br/14/greve/">até o dia do evento</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://www.thedevelopersconference.com.br/tdc/2013/data-e-local#saopaulo">TDC São Paulo 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 10 até 14 julho</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: R$ 70,00 a R$ 110,00</li>
-<li>Período de Inscrição: <a href="http://www.thedevelopersconference.com.br/tdc/2013/inscricoes#saopaulo">até o dia do evento</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://jugoncalves.github.io/fif2013/">FrontinFortaleza 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 20 de julho</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: Ceará</li>
-<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="http://jugoncalves.github.io/fif2013/">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://www.frontinbahia.com.br/">FrontinBahia 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 27 de julho</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: Bahia</li>
-<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="https://adobeformscentral.com/?f=uVj67iB49tkqNOHnRMlbxQ">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h3>Agosto</h3>
-
-<h5>Evento: <a href="http://dnad.azurewebsites.net/">DNAD 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 2 e 3 de agosto</li>
-<li>Tecnologia/Tema: Arquitetura</li>
-<li>Estado de realização do Evento: Rio de Janeiro</li>
-<li>Valor Inscrição: R$ 150,00 para as inscrições feitas até o dia 08/06/2013 e R$ 200,00 o 2º lote a partir do dia 09/06/2013</li>
-<li>Período de Inscrição: <a href="http://dnad.azurewebsites.net/#inscricoes">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://frontinbh.com.br/">FrontinBH 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 3 de agosto</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: Minas Gerais</li>
-<li>Valor Inscrição: R$ 60,00 para as inscrições feitas até o dia 03/07/2013</li>
-<li>Período de Inscrição: <a href="http://frontinbh.com.br/#ticktes">03/07/2013 segundo o que foi divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://www.caipiraagil.com/">Caipira Ágil 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 17 de agosto</li>
-<li>Tecnologia/Tema: Agile</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: R$ 33,00 para as inscrições feitas até o dia 01/08/2013 &ndash; 1º lote.</li>
-<li>Período de Inscrição: <a href="http://www.eventick.com.br/caipiraagil">01/08/2013 termina o 1º lote de ingressos</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://braziljs.com.br/">BrazilJS 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 22 e 33 de agosto</li>
-<li>Tecnologia/Tema: Java Script</li>
-<li>Estado de realização do Evento: Rio Grande do Sul</li>
-<li>Valor Inscrição: R$ 170,00 para as inscrições feitas até o dia 07/06/2013. Valores posteriores para inscrições após esta data não divulgados na página de inscrições até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="http://www.eventick.com.br/braziljs-2013">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://qconsp.com/">QCONSP 2013</a></h5>
-
-<ul>
-<li>Data do Evento: Tutoriais &ndash; 29 de agosto. Conferência &ndash; 30 e 31 de agosto</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: Tutoriais e Conferência &ndash; R$ 749,00 à R$ 1099,00. Conferência &ndash; R$ 549,00 à 899</li>
-<li>Período de Inscrição: <a href="http://qconsp.com/register.html">até o dia do evento</a></li>
-</ul>
-
-
-<h5>Evento: RubyConfBr 2013</h5>
-
-<ul>
-<li>Data do Evento: 29 e 30 de agosto</li>
-<li>Tecnologia/Tema: Ruby</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="https://twitter.com/AkitaOnRails/status/332882173730385920">iniciará no final de junho/2013, segundo organizadores</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://www.frontinaracaju.com.br/">FrontinAracaju 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 31 de agosto</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: Sergipe</li>
-<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="http://www.frontinaracaju.com.br/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h3>Setembro</h3>
-
-<h5>Evento: <a href="http://www.frontinsampa.com.br/">FrontInSP</a></h5>
-
-<ul>
-<li>Data do Evento: 14 de setembro</li>
-<li>Tecnologia/Tema: Diversas</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: R$ 200,00 &ndash; preço do 2º lote de ingressos.</li>
-<li>Período de Inscrição: <a href="http://www.eventick.com.br/frontinsampa2013">até 31/07/2013</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://www.testday.com.br/">TestDay</a></h5>
-
-<ul>
-<li>Data do Evento: 21 de setembro</li>
-<li>Tecnologia/Tema: Teste</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: R$ 40,00</li>
-<li>Período de Inscrição: <a href="https://www.ingresse.com.br/testday">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h3>Outubro</h3>
-
-<h5>Evento: <a href="http://2013.pythonbrasil.org.br/">python-brasil 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 2 até 4 de outubro</li>
-<li>Tecnologia/Tema: Python</li>
-<li>Estado de realização do Evento: Brasília</li>
-<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="http://2013.pythonbrasil.org.br/inscricoes">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://www.agiletrendsbr.com/">AgileTrends 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 4 e 5 de outubro</li>
-<li>Tecnologia/Tema: Agile e tendências de desenvolvimento de software</li>
-<li>Estado de realização do Evento: São Paulo</li>
-<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
-<li>Período de Inscrição: <a href="http://agiletrendsbr.com/2013/inscricoes/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
-</ul>
-
-
-<h5>Evento: <a href="http://rioagile.com.br/agile-in-rio.html">AgileinRio 2013</a></h5>
-
-<ul>
-<li>Data do Evento: 26 e 27 de outubro</li>
-<li>Tecnologia/Tema: Agile</li>
-<li>Estado de realização do Evento: Rio de Janeiro</li>
-<li>Valor Inscrição: R$ 150,00 a R$ 250,00</li>
-<li>Período de Inscrição: <a href="http://agileinrio.eventbrite.com/">até o dia do evento</a></li>
-</ul>
-
-
-<p>Favorite este post e não se esqueça de se inscrever e participar desses momentos importantes para o desenvolvimento de software do Brasil. Os eventos descritos que não possuem valor e período de inscrição serão atualizados assim que as informações forem divulgadas pelos organizadores dos eventos.</p>
-
-<p>Até a próxima o/.</p>
+<p>Até a próxima o/</p>
 ]]></content>
   </entry>
   
