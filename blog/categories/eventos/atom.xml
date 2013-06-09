@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Eventos, | ToalhaTech]]></title>
   <link href="http://toalhatech.com/blog/categories/eventos/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
-  <updated>2013-06-08T21:17:11-03:00</updated>
+  <updated>2013-06-08T21:37:37-03:00</updated>
   <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Web Day 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/web-day-2013/"/>
+    <updated>2013-06-08T21:22:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/web-day-2013</id>
+    <content type="html"><![CDATA[<p>O <a href="http://www.webday.com.br">Web Day</a> é um seminário para desenvolvedores web. Segundo o site do evento, <em>&ldquo;será um evento técnico, onde os conceitos atuais serão vistos mais a fundo. As palestras serão realizadas por profissionais que atuam no mercado&rdquo;</em>.</p>
+
+<p>Com esta premissa bem direta ao assunto :), <a href="http://www.webday.com.br/p/palestrantes_30.html">palestrantes conhecidos no mundo front-end, ruby on rails e outros</a>, o evento ocorrerá no dia 20 de julho de 2013.</p>
+
+<p>A grade do evento já foi divulgada <!-- more --><a href="http://www.webday.com.br/p/programacao.html">http://www.webday.com.br/p/programacao.html</a></p>
+
+<p>As inscrições custam R$ 40,00 <a href="https://www.ingresse.com.br/webday">https://www.ingresse.com.br/webday</a> e será na <a href="http://www.webday.com.br/p/data-local.html">PUC-SP</a>.</p>
+
+<p>Corra e se inscreva antes que as vagas acabem :).</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[BHack Conference 2013]]></title>
@@ -37,6 +56,35 @@ No intuito de promover a referida integração, neste ano serão dois dias de ev
 <p>Com vários palestrantes e muito conteúdo, ainda dá tempo de se inscrever e participar :).</p>
 
 <p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SQL Saturday RIO - 2a edicao]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/"/>
+    <updated>2013-06-08T19:12:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao</id>
+    <content type="html"><![CDATA[<p>Recadinho da <a href="https://twitter.com/valparajara">Val Parajara</a>:</p>
+
+<p>A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.</p>
+
+<p>Inscreva-se já e garanta a sua vaga na edição RIO do maior evento <strong>gratuito sobre SQL Server</strong>, garanta já sua vaga.</p>
+
+<p>Ainda estamos trabalhando na montagem <!-- more -->da agenda do evento, mas você já pode conferir as palestras que foram oferecidas para o evento em <a href="http://www.sqlsaturday.com/245/schedule.aspx">http://www.sqlsaturday.com/245/schedule.aspx</a>.</p>
+
+<p><a href="http://www.sqlsaturday.com/245/callforspeakers.aspx">O Call for Speakers estará aberto até o dia 18 de julho de 2013</a></p>
+
+<p>Inscreva-se em : <a href="http://www.sqlsaturday.com/245/register.aspx">http://www.sqlsaturday.com/245/register.aspx</a></p>
+
+<p><a href="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;um=1&amp;ie=UTF-8&amp;hl=pt-BR&amp;sa=N&amp;tab=wl&amp;authuser=0">O evento será na Universidade Veiga de Almeida (UVA)</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;ie=UTF8&amp;hl=pt-BR&amp;hq=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;ie=UTF8&amp;hl=pt-BR&amp;hq=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;t=m&amp;z=15&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+
+
 ]]></content>
   </entry>
   
