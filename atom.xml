@@ -4,7 +4,7 @@
   <title><![CDATA[ToalhaTech]]></title>
   <link href="http://toalhatech.com/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
-  <updated>2013-06-17T07:51:36-03:00</updated>
+  <updated>2013-06-17T08:46:29-03:00</updated>
   <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hackaton para ajudar os protestos Br]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br/"/>
+    <updated>2013-06-17T08:30:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br</id>
+    <content type="html"><![CDATA[<p>Pessoal, este blog não é politico e nem nada, porém não podemos deixar de fazer a nossa parte para ajudar as pessoas a sairem sãs e salvas destes protestos, que estão sendo respondidos com muita violência por parte do governo. Parte do governo pois a polícia só obedece ordens.</p>
+
+<p>Indo ao que interessa, o <a href="https://twitter.com/scaphe">Felipe Oliveira</a> está <a href="https://twitter.com/scaphe/status/346445119525888001">organizando um hackathon</a> para ajudar nas manifestações. O objetivo deste post é<!-- more -->  anunciar este hackathon e incentivar a todos que participem dele: <a href="http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a">http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a</a></p>
+
+<p>O <a href="https://twitter.com/marcogomes">Marco Gomes</a> com muitas pessoas, <a href="https://twitter.com/marcogomes">fizeram um mapa colaborativo para os protestos</a>. Pelo que sabemos, é só para iphone, mas o pessoal de android pode tomar a ideia como base. Para saber mais sobre isso, vejam em <a href="http://protestosbr.tumblr.com/post/53142143778/mapa-colaborativo-dos-protestos-br">http://protestosbr.tumblr.com/post/53142143778/mapa-colaborativo-dos-protestos-br</a></p>
+
+<p>Devemos nos lembrar que policiais são cidadãos, os manifestantes também são e os que não querem se envolver com isso também são cidadãos deste país.</p>
+
+<p>Pedimos para todos os participantes dos protestos, pessoas que estarão na região e querem fugir do protesto e até a polícia para se lembrarem que somos todos brasileiros e estamos todos juntos neste país, que precisa de mudanças, mas não precisa ser na base da pancada.</p>
+
+<p>Até a próxima.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Encontro dna Rio de maio e junho de 2013]]></title>
