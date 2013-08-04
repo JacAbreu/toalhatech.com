@@ -4,7 +4,7 @@
   <title><![CDATA[Category: de | ToalhaTech]]></title>
   <link href="http://toalhatech.com/blog/categories/de/atom.xml" rel="self"/>
   <link href="http://toalhatech.com/"/>
-  <updated>2013-06-28T01:31:12-03:00</updated>
+  <updated>2013-08-04T12:08:29-03:00</updated>
   <id>http://toalhatech.com/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro do Grupo de Estrutura de Dados/RJ Agosto/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013/"/>
+    <updated>2013-08-04T11:39:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
+
+<p>No dia 10 de agosto, será realizado o 2º encontro do grupo de estrutura de dados e o local é na <a href="http://www.caelum.com.br/">Caelum/RJ</a>.<br/>
+Após muitas conversas, este encontro e acredito fortemente que os outros também terão, tem por intuito reunir pessoas interessadas em algoritmos e estrutura de dados e compartilhar o que estão fazendo,<!-- more -->  o que estão pesquisando e afins, sem o formato palestra &ndash; palestrante fala e as pessoas ouvem. O objetivo é trocar, é falar sobre algo e as pessoas possam intervir, questionar, complementar o conteúdo no mesmo instante.</p>
+
+<p>As inscrições serão realizadas até o dia 7 de agosto, pelo link: <a href="http://t.co/ZMVGR9FeQc">http://t.co/ZMVGR9FeQc</a></p>
+
+<p>Como chegar na Caelum/RJ:</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>  
+
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Encontro sobre Estrutura de Dados]]></title>
@@ -106,48 +130,6 @@
 <p>Por último tivemos um Open Space com o <a href="https://twitter.com/marcosgarrido">Marcos Garrido</a> sobre o <a href="https://knowledge21.com.br">Knowledge21</a>.</p>
 
 <p>O próximo Talks acontece em Julho, e em outubro acontecerá o Agile in Rio. Acompanhe o site da comunidade e fique por dentro das novidades: <a href="http://rioagile.com.br">Rio Agile</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Encontros de algumas comunidades do Rio de Janeiro]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/"/>
-    <updated>2013-05-30T10:40:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro</id>
-    <content type="html"><![CDATA[<p>No Rio de Janeiro, algumas comunidades estão bastante organizadas e engajadas em manter a regularidade dos encontros de seus participantes. Nos encontros que podem ser para palestras, apresentação de cases, bate papo sobre a área ou um misto dos dois, ocorrem geralmente com uma certa agenda, descrita abaixo:</p>
-
-<!-- more -->
-
-
-<h4>Encontros Semanais:</h4>
-
-<ul>
-<li>Encontro da comunidade python &ndash; Almoço do <a href="https://twitter.com/pythonrio">PythOnRio</a> &ndash; no <a href="http://br.groups.yahoo.com/group/pythonrio/">Centro</a> e na <a href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/">Barra da Tijuca</a></li>
-</ul>
-
-
-<h4>Encontros Mensais:</h4>
-
-<ul>
-<li>1º sábado &ndash; Encontro da comunidade .NET &ndash; <a href="https://twitter.com/dnario">DNA Rio</a></li>
-<li>2º quinta feira &ndash; Encontro da comunidade Perl &ndash; <a href="https://twitter.com/rio_pm">Rio PerlMonks</a> &ndash; <a href="http://mail.pm.org/mailman/listinfo/rio-pm">Rio-pm</a>. A comunidade também se reume para hackatons, que geralmente ocorrem no sábado depois do encontro mensal.</li>
-<li>3º sábado &ndash; Encontro da comunidade ruby &ndash; <a href="https://twitter.com/rubyonrio">RubyOnRio</a></li>
-</ul>
-
-
-<h4>Encontros Bimestrais:</h4>
-
-<ul>
-<li>Encontro da comunidade agile &ndash; <a href="http://rioagile.com.br/rio-agile-talks.html">Rio Agile Talks</a></li>
-<li>Encontro da comunidade javascript &ndash; <a href="https://www.facebook.com/groups/riojs">RioJS</a> &ndash; grupo do facebook</li>
-</ul>
-
-
-<p>Se você programa ou tem curiosidade sobre alguma dessas tecnologias, se programe e participe dos encontros. Certamente estar junto dessas pessoas é uma ótima oportunidade de aprender, ensinar e conhecer pessoas sensacionais.</p>
-
-<p>Agradeço muito à ajuda da <a href="https://twitter.com/valparajara">@valparajara</a> pelas informações da comunidade Ruby RJ, do <a href="https://twitter.com/leobetosouza">@leobetosouza</a> pelas informações da comunidade Riojs, da <a href="https://twitter.com/samantacicilia">@samantacicilia</a> pelas informações sobre a comunidade Agile RJ, do <a href="https://twitter.com/breno_ferreira">@breno_ferreira</a> pelas informações sobre a comunidade .Net-RJ, do <a href="https://twitter.com/israelst">@israelst</a> juntamente com a <a href="https://twitter.com/Renata_Carreira">@Renata_Carreira</a> sobre as informações da comunidade Python RJ e o <a href="https://twitter.com/leobetosouza">@leobetosouza</a> novamente contribuiu para com as informações da comunidade Perl para que o post fosse escrito :).</p>
-
-<p>Até a próxima o/.</p>
 ]]></content>
   </entry>
   
