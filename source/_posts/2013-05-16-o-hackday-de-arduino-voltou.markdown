@@ -4,7 +4,7 @@ title: "O hackday - arduino voltou o/"
 date: 2013-05-16 18:32
 comments: true
 categories: Recadinhos, Encontros, Arduino, Rio de Janeiro
-author: Desireé Santos
+author: Desiree Santos
 keywords: toalhatech, arduino, hackday, rio de janeiro.
 description: hakday de arduino no rio de janeiro retornou com atividades.
 ---
